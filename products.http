@@ -1,0 +1,2 @@
+### Test products
+http://localhost:8000/api/v1/products?provider=DataProviderY&statusCode=intstock&balanceMin=1000&balanceMax=3000
